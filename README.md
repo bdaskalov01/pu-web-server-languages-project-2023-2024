@@ -1,7 +1,7 @@
 Prerequisities:
 
 1. Gradle
-2. JKD 19.0.2
+2. JDK 19.0.2
 3. Node.JS
 4. JDBC
 5. Intellij IDEA IDE 2022.3.2
